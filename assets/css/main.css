@@ -1926,6 +1926,12 @@
 
 		/* Basic */
 
+    .logosVivi {
+      max-width: 50px;
+      max-height: 50px;
+      text-align: center;
+    }
+
 			body {
 				min-width: 960px;
 				font-size: 11pt;
@@ -1970,6 +1976,12 @@
 	@media screen and (max-width: 736px) {
 
 		/* Basic */
+
+    .logosVivi {
+      max-width: 10px;
+      max-height: 10px;
+      text-align: center;
+    }
 
 			body, input, textarea, select {
 				line-height: 1.75em;

@@ -1,6 +1,6 @@
 Check Out my Portfolio!
 
-https://vivirishe.github.io/Portfolio_VivianaRishe/
+https://vivirishe.github.io/Portfolio_VivianaRishe
 
 PROJECTS
 
